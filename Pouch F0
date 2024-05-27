@@ -1,4 +1,4 @@
-충전량(해당시간 평균값)	비중(저유)	pH(저유)	위치	충전온도	최고온도	차이값	F0
+filling amount	specific gravity	pH	place	Filling temperature	Max Temperature	temperature difference	F0
 206	1.0435	7.44	20	9.5	134.4	124.9	127.2
 206	1.0435	7.44	20	9.5	134.6	125.1	140.7
 206	1.0435	7.44	16	9.7	133.9	124.2	100.8
